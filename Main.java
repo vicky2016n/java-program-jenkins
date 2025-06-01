@@ -8,5 +8,7 @@ public class Main{
         System.out.println(new Date());
         System.out.println("Added one more changes");
         System.out.println("More changes to check");
+
+        new Student().sayHello();
     }
 }
